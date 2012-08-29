@@ -1,0 +1,109 @@
+{
+
+    "jsonrpc": "2.0",
+    "version": 1,
+    "total": 25,
+    "result": [
+        {
+            "category": "Arts & Media",
+            "categoryId": "1001"
+        },
+        {
+            "category": "Business & Finance",
+            "categoryId": "1002"
+        },
+        {
+            "category": "Careers & Education",
+            "categoryId": "1003"
+        },
+        {
+            "category": "Cars & Transportation",
+            "categoryId": "1004"
+        },
+        {
+            "category": "Crafts & Hobbies",
+            "categoryId": "1005"
+        },
+        {
+            "category": "Environment",
+            "categoryId": "1006"
+        },
+        {
+            "category": "First Aid & Safety",
+            "categoryId": "1007"
+        },
+        {
+            "category": "Food & Drink",
+            "categoryId": "1008"
+        },
+        {
+            "category": "Games",
+            "categoryId": "1009"
+        },
+        {
+            "category": "Health & Nutrition",
+            "categoryId": "1010"
+        },
+        {
+            "category": "Holidays & Celebrations",
+            "categoryId": "1011"
+        },
+        {
+            "category": "House & Garden",
+            "categoryId": "1012"
+        },
+        {
+            "category": "Kids",
+            "categoryId": "1013"
+        },
+        {
+            "category": "Language & References",
+            "categoryId": "1014"
+        },
+        {
+            "category": "Mind & Body",
+            "categoryId": "1015"
+        },
+        {
+            "category": "Parenting & Family",
+            "categoryId": "1016"
+        },
+        {
+            "category": "Performing Arts",
+            "categoryId": "1017"
+        },
+        {
+            "category": "Personal Care & Style",
+            "categoryId": "1018"
+        },
+        {
+            "category": "Pets",
+            "categoryId": "1019"
+        },
+        {
+            "category": "Religion & Spirituality",
+            "categoryId": "1020"
+        },
+        {
+            "category": "Sex & Relationships",
+            "categoryId": "1021"
+        },
+        {
+            "category": "Sports & Fitness",
+            "categoryId": "1022"
+        },
+        {
+            "category": "Technology",
+            "categoryId": "1023"
+        },
+        {
+            "category": "Teens",
+            "categoryId": "1024"
+        },
+        {
+            "category": "Travel",
+            "categoryId": "1025"
+        }
+    ]
+
+}
